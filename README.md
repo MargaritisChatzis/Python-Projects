@@ -2,11 +2,14 @@
  
  These are projects written in Python during my master courses at the University of Athens. Below is a short description of each project.
 
- Projects for the course "Basic Topics in Astrophysics" : 1
++ Projects for the course "Basic Topics in Astrophysics" : 1
 
  - Monte Carlo simulation
+    
+    The goal here is to study the beheavior of photons escaing from a 2D proton cloud under various simplifications. 
+    More information can be found in the short report accompanying the code.
 
- Projects for the course "Computational Astrophysics" : 5
++ Projects for the course "Computational Astrophysics" : 5
  Some minor code snippets have been adapted from the lectures.
 
  - Projecting a Galaxy to higher redshift
