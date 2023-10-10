@@ -16,6 +16,7 @@
 
     Aim of this project is to take the image of a close galaxy, here NGC3982 with a redshift of z=0.00371, and project it to z=3.
     To do this we need to resize and dimm the image appropiately. 
+    Fits file due to size not included.
 
  - Spectral fitting of galaxy nucleus with lmfit
 
